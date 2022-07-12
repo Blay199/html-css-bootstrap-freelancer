@@ -1,6 +1,10 @@
 /* header */
-a, nav-link {
+a, .nav-link, .navbar-toggler-icon {
     color: currentColor;
+}
+
+.my_profile_pic {
+    max-width: 200px;
 }
 
 .my_main-header {
@@ -12,6 +16,7 @@ a, nav-link {
 
 .my_hero {
     background-color: #1ABC9C;
+    color: white;
 }
 
 .square-test {
