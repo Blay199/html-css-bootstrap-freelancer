@@ -25,4 +25,9 @@ a, .nav-link, .navbar-toggler-icon {
     /* height: 150px; */
 }
 
- 
+/* ABOUT */
+
+.my_about {
+    background-color: #1ABC9C;
+    color: white;
+}
