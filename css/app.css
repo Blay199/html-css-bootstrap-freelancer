@@ -1,12 +1,11 @@
 /* header */
-
-.my_main-header {
-    color: white;
-    background-color: #2C3E50;
+a, nav-link {
+    color: currentColor;
 }
 
-nav a {
-    color: currentColor;
+.my_main-header {
+    color: white !important;
+    background-color: #2C3E50;
 }
 
 /* Hero */
